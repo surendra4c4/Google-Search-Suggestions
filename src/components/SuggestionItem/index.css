@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0px;
+  background-color: #ffffff;
+  list-style-type: none;
+}
+.suggetion {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.arrow-class {
+  height: 15px;
+  width: 15px;
+  margin-top: 10px;
+}
